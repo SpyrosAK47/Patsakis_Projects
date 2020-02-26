@@ -1,6 +1,6 @@
 file=open ('john_missas.txt','w')
 #we take into account that every number is has a blank space bettwen himself and the next one ....also every 4 numbers we change lines ...
-file.write(" 8 0 2 99\n5 69 72 33\n9 103 10 15\n43 42 98 32\n10 18 27 15\n567 922 1224 345\n47 52 24 10\n2 7 8 10")
+file.write("8 0 2 99\n5 69 72 33\n9 103 10 15\n43 42 98 32\n10 18 27 15\n567 922 1224 345\n47 52 24 10\n2 7 8 10")
 #its not like an actual list but pyhton reads it as its like a list ..and there is no errors 
 file.close()
 file=open('john_missas.txt','r')
