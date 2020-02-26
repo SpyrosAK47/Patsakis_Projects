@@ -8,7 +8,7 @@ w=file.read()
 file.close()
 print("These are the available foursomes from the text")
 print(w)
-print("Please give 6 words ,not more ,not less:")
+print("Please give 6 numbers ,not more ,not less:")
 
 le=[]
 lebron=""
